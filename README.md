@@ -1,4 +1,4 @@
-## Products Included in This CyberWeek Deal
+## Products Included in Crawlbase's CyberWeek Deal
 
 ### 1. Crawling API  
 
