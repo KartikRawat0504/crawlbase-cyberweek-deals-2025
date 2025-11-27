@@ -17,7 +17,7 @@ Scraping at scale without getting blocked is one of the biggest challenges for b
 - **Coupon**: CRAWL15
 - **Validity**: November 26 - December 2, 2025 (Only 7 Days!)
 
-[**Get Started →** ](https://crawlbase.com/signup?signup=blog-cyberweek/utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025) - [**View Pricing →**](https://crawlbase.com/crawling-api-avoid-captchas-blocks#pricing/utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025)
+[**Get Started →** ](https://crawlbase.com/signup?signup=blog-cyberweek-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025) - [**View Pricing →**](https://crawlbase.com/crawling-api-avoid-captchas-blocks#pricing-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025)
 
 ### 2.  Smart AI Proxy 
 
@@ -36,7 +36,7 @@ Traditional proxies fail when websites become more sophisticated. Crawlbase's Sm
 - **Coupon**: CRAWL15
 - **Validity**: November 26 - December 2, 2025 (Only 7 Days!)
 
-[**Get Started →**](https://crawlbase.com/signup?signup=blog-cyberweek/utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025) -  [**View Pricing →**](https://crawlbase.com/smart-proxy#pricing/utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025)
+[**Get Started →**](https://crawlbase.com/signup?signup=blog-cyberweek-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025) -  [**View Pricing →**](https://crawlbase.com/smart-proxy#pricing-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025)
 
 ### 3. Crawler 
 
@@ -55,7 +55,7 @@ Crawlbase Crawler is your asynchronous scraping solution that handles large-scal
 - **Coupon**: CRAWL15
 - **Validity**: November 26 - December 2, 2025 (Only 7 Days!)
 
-[**Get Started →**](https://crawlbase.com/signup?signup=blog-cyberweek/utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025) - [**View Pricing →**](https://crawlbase.com/anonymous-crawler-asynchronous-scraping#pricing/utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025)
+[**Get Started →**](https://crawlbase.com/signup?signup=blog-cyberweek-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025) - [**View Pricing →**](https://crawlbase.com/anonymous-crawler-asynchronous-scraping#pricing-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025)
 
 ### 4. Cloud Storage
 
@@ -74,7 +74,7 @@ Crawlbase Cloud Storage is your best secured and scalable option to store scrape
 - **Coupon**: CRAWL15
 - **Validity**: November 26 - December 2, 2025 (Only 7 Days!)
 
-[**Get Started →**](https://crawlbase.com/signup?signup=blog-cyberweek/utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025) - [**View Pricing →**](https://crawlbase.com/cloud-storage-for-crawling-and-scraping#pricing/utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025)
+[**Get Started →**](https://crawlbase.com/signup?signup=blog-cyberweek-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025) - [**View Pricing →**](https://crawlbase.com/cloud-storage-for-crawling-and-scraping#pricing-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025)
 
 ### 5. LinkedIn Scraper
 
@@ -94,4 +94,4 @@ LinkedIn is a goldmine for B2B leads, recruitment, and market intelligence, but 
 - **Coupon**: CRAWL15
 - **Validity**: November 26 - December 2, 2025 (Only 7 Days!)
 
-[**Get Started →**](https://crawlbase.com/signup?signup=blog-cyberweek/utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025) -  [**View Pricing →**](https://crawlbase.com/dashboard/account/domain/linkedin/agreement/utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025)
+[**Get Started →**](https://crawlbase.com/signup?signup=blog-cyberweek-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025) -  [**View Pricing →**](https://crawlbase.com/dashboard/account/domain/linkedin/agreement-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025)
